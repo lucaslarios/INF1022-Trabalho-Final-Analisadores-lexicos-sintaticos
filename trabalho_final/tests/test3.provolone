@@ -1,0 +1,19 @@
+Program 
+    ENTRADA variavelX,variavelY
+    SAIDA result
+    ZERA(variavelX)
+    ZERA(variavelY)
+    INC(variavelX)
+    INC(variavelX)
+    INC(variavelX)
+    ENQUANTO variavelX FACA
+        INC(variavelY)
+        SE variavelY ENTAO
+            result = variavelY
+        SENAO
+            ZERA(result)
+        FIM
+    FIM
+FIM        
+
+

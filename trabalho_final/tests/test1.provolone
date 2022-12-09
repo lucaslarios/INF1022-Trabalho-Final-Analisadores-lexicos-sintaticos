@@ -1,0 +1,23 @@
+Program 
+    ENTRADA X, Y
+    SAIDA Z
+    ZERA(Y)
+    INC(Y)
+    SE Y ENTAO 
+        X = Y
+        ENQUANTO X FACA
+            INC(Y)
+            SE Y ENTAO
+                INC(X)
+                INC(Y)
+                X = Y
+            FIM
+        FIM
+    FIM
+    SE X ENTAO
+        ZERA(Y)
+    SENAO
+        INC(X)
+
+    FIM
+FIM

@@ -1,0 +1,37 @@
+Program 
+    ENTRADA X
+    SAIDA Z
+    ZERA(X)
+    INC(X)
+    SE X ENTAO
+        SE X ENTAO
+           SE X ENTAO
+                SE X ENTAO
+                    SE X ENTAO
+                        SE X ENTAO
+                            SE X ENTAO
+                                SE X ENTAO
+                                    SE X ENTAO
+                                        SE X ENTAO
+                                            SE X ENTAO
+                                                SE X ENTAO
+                                                    SE X ENTAO
+                                                        SE X ENTAO
+                                                            SE X ENTAO
+                                                                Z = X
+                                                            FIM
+                                                        FIM
+                                                    FIM
+                                                FIM
+                                            FIM
+                                        FIM
+                                    FIM
+                                FIM
+                            FIM
+                        FIM
+                    FIM
+                FIM
+            FIM 
+        FIM
+    FIM
+FIM
